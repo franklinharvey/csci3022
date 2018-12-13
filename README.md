@@ -63,6 +63,6 @@ Prof. Tony Wong (Sec 001) and Daniel Larremore (Sec 002)
 |      | 12.05  |           | TS 11.6, ISL Ch4  | Logistic Regr. & Classification          |  [TW](https://drive.google.com/open?id=1UsWVnxE2RVJfRjbWswlkawR0lQ07rIfM) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec25.pdf)          |                  | 
 |      | 12.07  | [nb25](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb25_logisticregression.ipynb)          |             | **Logistic Regr. & Classification**      |             |                  | 
 | 16   | 12.10  |           | TS 11.7, ISL Ch4  | Solution Techniques and SGD              | [TW](https://drive.google.com/open?id=1t9IesVAPaKAduOLrojm5FtUMBKsqFWGJ) [DL](https://github.com/dblarremore/csci3022/blob/master/slides/lec26.pdf)            |                  | 
-|      | 12.12  |           |             | **FINAL EXAM REVIEW**                    | [TW](https://drive.google.com/open?id=1NIFHcYUaM23siR_QVZrh2EfhcqG-MsX0)            | practicum due    | 
+|      | 12.12  |           |             | **FINAL EXAM REVIEW**                    | [TW](https://drive.google.com/open?id=1Y3Kvf2yIvCureLTGHp7TliRBY9wThqAJ)            | practicum due    | 
 |      | 12.17  | Monday    |             | **FINAL EXAM, Tony's Section (001)**     | 1:30-4 PM   |                  | 
 |      | 12.18  | Tuesday   |             | **FINAL EXAM, Dan's Section (002)**      | 7:30-10 PM  |                  | 
